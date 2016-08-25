@@ -32,12 +32,12 @@
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "16017c88da5f4510bcc7e5a43df7460d";
+char auth[] = "token";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Ethan's iPhone";
-char pass[] = "1212qwas";
+char ssid[] = "ssid";
+char pass[] = "pass";
 
 char serialinput[10];
 //float t = float(random(100, 300)) / 10;
