@@ -1,4 +1,4 @@
-# CAN-Wifi-Gateway
+# CAN-Wifi-Gateway Using Arduino
 I'm going to make CAN-Wifi Gateway.
 
 - Hardware
